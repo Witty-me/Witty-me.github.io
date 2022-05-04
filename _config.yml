@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : ""
   location         : "Room 513S"
-  location         : "Science Building #5"
+  location_2        : "Science Building #5"
   employer         : "Peking University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=loX-G0gAAAAJ"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Witty-me"
+  github           : "Witty-me"
   google_plus      :
   keybase          :
   instagram        :
