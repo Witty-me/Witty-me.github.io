@@ -38,6 +38,6 @@ Publications
 
 Acticities
 ======
-* Teaching Assistant, Computer Networks (Honor Track), 2019, 2020, 2021(Light).
-* Journal Reviewer, IMWUT, 2021.  
+* Teaching Assistant, Computer Networks (Honor Track), PKU, 2019, 2020, 2021(Light).
+* External Reviewer, IMWUT, 2021.  
 
