@@ -17,6 +17,8 @@ redirect_from:
 
 I am a second-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing and wireless networks.
 
+Please find my CV [here](/files/cv.pdf).
+
 Education
 ======
 * Ph.D. in Computer Science, School of CS, Peking University, 2020-  
