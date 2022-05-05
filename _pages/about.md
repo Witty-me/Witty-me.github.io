@@ -36,7 +36,7 @@ Publications
 * Yue Wu, Purui Wang, **Kenuo Xu**, Lilei Feng, Chenren Xu. [Turboboosting Visible Light Backscatter Communication](https://doi.org/10.1145/3387514.3406229). *ACM SIGCOMM*. 2020.  
 * Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, **Kenuo Xu**, Guobin Shen, Kuntai Du, Gang Huang, Xuanzhe Liu. [Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach](https://doi.org/10.1145/3372224.3380883). *ACM MobiCom*. 2020.  
 
-Acticities
+Activities
 ======
 * Teaching Assistant, Computer Networks (Honor Track), PKU, 2019, 2020, 2021(Light).
 * External Reviewer, IMWUT, 2021.  
