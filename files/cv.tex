@@ -1,143 +1,261 @@
-%------------------------
-% Resume Template
-% Author : Anubhav Singh
-% Github : https://github.com/xprilion
-% License : MIT
-%------------------------
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
 
-\documentclass[a4paper,20pt]{article}
 
-\usepackage{latexsym}
-\usepackage[empty]{fullpage}
-\usepackage{titlesec}
-\usepackage{marvosym}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{verbatim}
-\usepackage{enumitem}
-\usepackage[pdftex]{hyperref}
-\usepackage{fancyhdr}
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
 
-\pagestyle{fancy}
-\fancyhf{} % clear all header and footer fields
-\fancyfoot{}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
 
-% Adjust margins
-\addtolength{\oddsidemargin}{-0.530in}
-\addtolength{\evensidemargin}{-0.375in}
-\addtolength{\textwidth}{1in}
-\addtolength{\topmargin}{-.45in}
-\addtolength{\textheight}{1in}
+% Specify the location of the included fonts
+\fontdir[fonts/]
 
-\urlstyle{rm}
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\definecolor{pkured}{RGB}{140, 0, 0}
+\colorlet{awesome}{pkured}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
 
-\raggedbottom
-\raggedright
-\setlength{\tabcolsep}{0in}
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
 
-% Sections formatting
-\titleformat{\section}{
-  \vspace{-10pt}\scshape\raggedright\large
-}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
 
-%-------------------------
-% Custom commands
-\newcommand{\resumeItem}[2]{
-  \item\small{
-    \textbf{#1}{: #2 \vspace{-2pt}}
-  }
-}
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 
-\newcommand{\resumeItemWithoutTitle}[1]{
-  \item\small{
-    {\vspace{-2pt}}
-  }
-}
 
-\newcommand{\resumeSubheading}[4]{
-  \vspace{-1pt}\item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\
-      \textit{#3} & \textit{#4} \\
-    \end{tabular*}\vspace{-5pt}
-}
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo{./examples/profile.png}
+\name{Kenuo}{Xu}
+\position{Ph.D. Student{\enskip\cdotp\enskip}Peking University}
+\address{Room 513S, Science Building No.5, 5 Yiheyuan Road, Beijing, 100871}
 
-\newcommand{\resumeSubheadingSingle}[2]{
-	\item
-	\begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-		\textbf{#1} & #2 \\
-	\end{tabular*}\vspace{-3 pt}
-}
 
-\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+\email{kenuo.xu@pku.edu.cn}
+\homepage{https://witty-me.github.io/}
+\github{Witty-me}
+\googlescholar{loX-G0gAAAAJ}{Google Scholar}
+% \linkedin{posquit0}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra informations}
 
-\renewcommand{\labelitemii}{$\circ$}
+% \quote{``Be the change that you want to see in the world."}
 
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
-%-----------------------------
-%%%%%%  CV STARTS HERE  %%%%%%
-
+%-------------------------------------------------------------------------------
 \begin{document}
 
-%----------HEADING-----------------
-\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-  \textbf{{\LARGE Kenuo Xu}} & Email: \href{mailto:}{kenuo.xu@pku.edu.cn}\\
-  Webpage: \href{https://witty-me.github.io/}{https://witty-me.github.io/} &
-  Address: Science Building No.5, Peking University, Beijing, 100871 \\ 
-\end{tabular*}
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
 
-%-----------EDUCATION-----------------
-\section{Education}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-      {Peking University}{Beijing, China}
-      {Ph.D. in Computer Science; Advisor: Prof. Chenren Xu}{Sep 2020 - Present}
-	\resumeSubheading
-	  {Peking University}{Beijing, China}
-	  {B.Sc. in Computer Science}{Sep 2016 - July 2020}
-  \resumeSubHeadingListEnd
-	    
-	    
-\vspace{-5pt}
-\section{Publications}
-  \resumeSubHeadingListStart
-    \item{Chenren Xu, \textbf{Kenuo Xu}, Lilei Feng, Bo Liang. RetroV2X: A New V2X Paradigm with Visible Light Backscatter Networking. \textit{Fundamental Research}. Accepted.}
-    \item{Chenren Xu, Purui Wang, Tuochao Chen, Yue Wu, \textbf{Kenuo Xu}, Xieyang Xu, Yang Shen, Junrui Yang, Guojun Chen, Guobin Shen. VLID: Visible Light Backscatter System for Battery-free Internet-of-Things. \textit{IEEE/ACM Transactions on Networking}. Accepted.}
-    \item{Yue Wu, Purui Wang, \textbf{Kenuo Xu}, Lilei Feng, Chenren Xu. Turboboosting Visible Light Backscatter Communication. \textit{ACM SIGCOMM}. 2020.}
-    \item{Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, \textbf{Kenuo Xu}, Guobin Shen, Kuntai Du, Gang Huang, Xuanzhe Liu. Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach. \textit{ACM MobiCom}. 2020.}
-  \resumeSubHeadingListEnd
-	    
-\vspace{-5pt}
-\section{Awards and Honors}
-  \resumeSubHeadingListStart
-	\resumeSubheadingSingle
-	{First Prize of Competition of Future Network Technology Innovation}{June 2021}
-	\resumeSubheadingSingle
-	{Excellent Graduate}{June 2020}
-	\resumeSubheadingSingle
-	{Houston BAA Scholarship}{Dec 2019}
-	\resumeSubheadingSingle
-	{Merit Student}{Dec 2019}
-  \resumeSubHeadingListEnd
-  
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {Kenuo Xu~~~·~~~Curriculum Vitae}
+  {\thepage}
 
 
-\vspace{-5pt}
-\section{Activities}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-    {Teaching Assistant}{}
-    {Computer Networks (Honor Track): 2019, 2020, 2021(Light)}{}
-    \resumeSubheading
-    {Journal Reviewer}{}
-    {IMWUT 2021}{}
-\resumeSubHeadingListEnd
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%-------------------------------------------------------------------------------
+
+\cvsection{Education}
+\begin{cventries}
+	
+	%---------------------------------------------------------
+	\cventry
+	{Ph.D. in Computer Science}
+	{Peking University}
+	{Beijing, China}
+	{Sep. 2020 - Present}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {In the Software-hardware Orchestrated ARchitecture (SOAR) group; advisor: Prof. Chenren Xu}
+			\item {Design a visible light backscatter communication system that supports concurrent transmission for low latency purpose.}
+			\item {Design a visible light communication system with spike cameras as receivers to achieve high data rate and dynamic range.}
+			\item {See publications for more research.}
+		\end{cvitems}
+	}
+
+	\cventry
+	{B.Sc. in Computer Science} % Degree
+	{Peking University} % Institution
+	{Beijing, China} % Location
+	{Sep. 2016 - Jun. 2020} % Date(s)
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {Graduated with Excellent Graduate Award}
+		\end{cvitems}
+	}
+
+	%---------------------------------------------------------
+\end{cventries}
 
 
+\cvsection{Publications}
+\begin{cventries}
+	
+	%---------------------------------------------------------
+	
+	\cventry
+	{Chenren Xu, \textbf{Kenuo Xu}, Lilei Feng, Bo Liang}
+	{RetroV2X: A New V2X Paradigm with Visible Light Backscatter Networking}
+	{Fundamental Research}
+	{Accepted}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {A practical vehicle-to-everything communication system with visible light.}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Chenren Xu, Purui Wang, Tuochao Chen, Yue Wu, \textbf{Kenuo Xu}, Xieyang Xu, Yang Shen, Junrui Yang, Guojun Chen, Guobin Shen}
+	{VLID: Visible Light Backscatter System for Battery-free Internet-of-Things}
+	{IEEE/ACM Transactions on Networking}
+	{Accepted}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {An end-to-end VLBC solution for battery-free IoT networking.}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, \textbf{Kenuo Xu}, Guobin Shen, Kuntai Du, Gang Huang, Xuanzhe Liu}
+	{Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach}
+	{ACM MobiCom}
+	{2020}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {Enhance the reliability of autonomous driving with reflective roadsigns that conveys dynamic additional information.}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Yue Wu, Purui Wang, \textbf{Kenuo Xu}, Lilei Feng, Chenren Xu}
+	{Turboboosting Visible Light Backscatter Communication}
+	{ACM SIGCOMM}
+	{2020}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {Improve the data rate of VLBC by 8x (prototype) and 32x (simulation) with advanced modulation schemes.}
+		\end{cvitems}
+	}
+	
+	
+	%---------------------------------------------------------
+\end{cventries}
 
+\cvsection{Honors \& Awards}
+
+\begin{cvhonors}
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{First Prize} % Award
+	{Competition of Future Network Technology Innovation} % Event
+	{Nanjing, China} % Location
+	{2021} % Date(s)
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{Excellent Graduate} % Award
+	{Peking University} % Event
+	{Beijing, China} % Location
+	{2020} % Date(s)
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{Houston BAA Scholarship} % Award
+	{Peking University} % Event
+	{Beijing, China} % Location
+	{2019} % Date(s)
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{Merit Student} % Award
+	{Peking University} % Event
+	{Beijing, China} % Location
+	{2019} % Date(s)
+
+	%---------------------------------------------------------
+\end{cvhonors}
+
+
+\cvsection{Activities}
+\begin{cventries}
+	
+	%---------------------------------------------------------
+	\cventry
+	{Computer Networks (Honor Track)}
+	{Teaching Assistant}
+	{Peking University}
+	{Fall 2019, 2020, 2021(Light)}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {Organizing the course and answering questions.}
+			\item {Giving assignments, tutorials, and grading of labs.}
+			\item {Mentoring course research projects.}
+			\item {Designing quizzes and grading students' responses.}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)} % Degree
+	{Journal Reviewer} % Institution
+	{} % Location
+	{2021} % Date(s)
+	{}	
+	
+	%---------------------------------------------------------
+\end{cventries}
+
+%\input{cv/education.tex}
+%\input{cv/skills.tex}
+%\input{cv/experience.tex}
+%\input{cv/extracurricular.tex}
+%\input{cv/honors.tex}
+%\input{cv/presentation.tex}
+%\input{cv/writing.tex}
+%\input{cv/committees.tex}
+
+
+%-------------------------------------------------------------------------------
 \end{document}
