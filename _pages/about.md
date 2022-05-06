@@ -27,7 +27,7 @@ Education
 Awards and Honors
 ======
 * First Prize of Competition of Future Network Technology Innovation, Nanjing, 2021.  
-* Outstanding Graduate, Peking University, 2020.  
+* Excellent Graduate, Peking University, 2020.  
 * Houston BAA Scholarship, Peking University, 2019.  
 * Merit Student, Peking University, 2019.  
 
