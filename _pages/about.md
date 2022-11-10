@@ -15,7 +15,7 @@ redirect_from:
 *Peking University*  
 *Room 513S, Science Building No.5, 5 Yiheyuan Road, Beijing, 100871*
 
-I am a second-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing and wireless networks.
+I am a third-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing and wireless networks.
 
 Please find my CV [here](/files/cv.pdf).
 
@@ -26,6 +26,7 @@ Education
 
 Awards and Honors
 ======
+* Merit Student, Peking University, 2022. 
 * First Prize of Competition of Future Network Technology Innovation, Nanjing, 2021.  
 * Excellent Graduate, Peking University, 2020.  
 * Houston BAA Scholarship, Peking University, 2019.  
@@ -33,6 +34,7 @@ Awards and Honors
 
 Publications
 ======
+* **Kenuo Xu**, Chen Gong, Bo Liang, Yue Wu, Boya Di, Lingyang Song, Chenren Xu. [Low-Latency Visible Light Backscatter Networking with RetroMUMIMO](https://doi.org/10.1145/3560905.3568507). *ACM SenSys*. 2022. 
 * Chenren Xu, **Kenuo Xu**, Lilei Feng, Bo Liang. RetroV2X: A New V2X Paradigm with Visible Light Backscatter Networking. *Fundamental Research*. Accepted.  
 * Chenren Xu, Purui Wang, Tuochao Chen, Yue Wu, **Kenuo Xu**, Xieyang Xu, Yang Shen, Junrui Yang, Guojun Chen, Guobin Shen. VLID: Visible Light Backscatter System for Battery-free Internet-of-Things. *IEEE/ACM Transactions on Networking*. Accepted.  
 * Yue Wu, Purui Wang, **Kenuo Xu**, Lilei Feng, Chenren Xu. [Turboboosting Visible Light Backscatter Communication](https://doi.org/10.1145/3387514.3406229). *ACM SIGCOMM*. 2020.  
@@ -40,6 +42,6 @@ Publications
 
 Activities
 ======
-* Teaching Assistant, Computer Networks (Honor Track), PKU, 2019, 2020, 2021(Light).
+* Teaching Assistant, Computer Networks (Honor Track), PKU, 2019, 2020, 2021(Light), 2022(Light).
 * External Reviewer, IMWUT, 2021.  
 
