@@ -45,3 +45,6 @@ Activities
 * Teaching Assistant, Computer Networks (Honor Track), PKU, 2019, 2020, 2021(Light), 2022(Light).
 * External Reviewer, IMWUT, 2021.  
 
+Personal
+======
+I have been playing curing since 2021. [Our team](/images/curling.jpg) won the 4th place in the 2022 National Curling Championship of University Students.
