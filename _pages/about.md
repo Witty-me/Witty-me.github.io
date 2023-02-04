@@ -34,7 +34,7 @@ Awards and Honors
 
 Publications
 ======
-* **Kenuo Xu**, Kexing Zhou, Chengxuan Zhu, Shanghang Zhang, Boxin Shi, Xiaoqiang Li, Tiejun Huang, Chenren Xu. Improving Vehicular Visible Light Communication with Neuromorphic Cameras. *ACM HotMobile*. 2023. 
+* **Kenuo Xu**, Kexing Zhou, Chengxuan Zhu, Shanghang Zhang, Boxin Shi, Xiaoqiang Li, Tiejun Huang, Chenren Xu. [When Visible Light (Backscatter) Communication Meets Neuromorphic Cameras in V2X](https://doi.org/10.1145/3572864.3580333). *ACM HotMobile*. 2023. 
 * **Kenuo Xu**, Chen Gong, Bo Liang, Yue Wu, Boya Di, Lingyang Song, Chenren Xu. [Low-Latency Visible Light Backscatter Networking with RetroMUMIMO](https://doi.org/10.1145/3560905.3568507). *ACM SenSys*. 2022. 
 * Chenren Xu, **Kenuo Xu**, Lilei Feng, Bo Liang. RetroV2X: A New V2X Paradigm with Visible Light Backscatter Networking. *Fundamental Research*. Accepted.  
 * Chenren Xu, Purui Wang, Tuochao Chen, Yue Wu, **Kenuo Xu**, Xieyang Xu, Yang Shen, Junrui Yang, Guojun Chen, Guobin Shen. VLID: Visible Light Backscatter System for Battery-free Internet-of-Things. *IEEE/ACM Transactions on Networking*. Accepted.  
