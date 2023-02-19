@@ -48,4 +48,4 @@ Activities
 
 Personal
 ======
-I have been playing curling since 2021. [Our team](/images/curling.jpg) won the 4th place in the 2022 National Curling Championship of University Students.
+I have been playing curling since 2021. Our team won the 4th place in the [2022 National Curling Championship of University Students](/images/curling1.jpg) and the 3rd place in the [Zhongtiao Curling Championship](/images/curling2.jpg).
