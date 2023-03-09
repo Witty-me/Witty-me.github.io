@@ -26,7 +26,7 @@ Education
 
 Employment
 ======
-* Microsoft Research Asia (Shanghai), 2022-Present
+* Research Intern at Microsoft Research Asia (Shanghai), 2022-Present
 
 Awards and Honors
 ======
@@ -52,4 +52,4 @@ Activities
 
 Personal
 ======
-I have been playing curling since 2021. Our team won the 4th place in the [2022 National Curling Championship of University Students](/images/curling1.jpg) and the 3rd place in the [Zhongtiao Curling Championship](/images/curling2.jpg).
+I have been playing curling since 2021. Our team won the 4th place in the [2022 National Curling Championship of University Students](/images/curling1.jpg) and the 3rd place in the [Zhong'ti'ao Curling Championship](/images/curling2.jpg).
