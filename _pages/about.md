@@ -21,8 +21,12 @@ Please find my CV [here](/files/cv.pdf).
 
 Education
 ======
-* Ph.D. in Computer Science, School of CS, Peking University, 2020-  
+* Ph.D. in Computer Science, School of CS, Peking University, 2020-Present
 * B.Sc. in Computer Science, School of EECS, Peking University, 2016-2020  
+
+Employment
+======
+* Microsoft Research Asia (Shanghai), 2022-Present
 
 Awards and Honors
 ======
