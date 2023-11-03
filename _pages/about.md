@@ -15,7 +15,7 @@ redirect_from:
 *Peking University*  
 *Room 513S, Science Building No.5, 5 Yiheyuan Road, Beijing, 100871*
 
-I am a third-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing and wireless networks.
+I am a fourth-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing and wireless networks.
 
 Please find my CV [here](/files/cv.pdf).
 
@@ -26,7 +26,7 @@ Education
 
 Employment
 ======
-* Research Intern at Microsoft Research Asia (Shanghai), 2022-Present
+* Research Intern at Microsoft Research Asia (Shanghai), Dec. 2022 - Sep. 2023
 
 Awards and Honors
 ======
