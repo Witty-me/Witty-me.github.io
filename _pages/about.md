@@ -15,13 +15,13 @@ redirect_from:
 *Peking University*  
 *Room 513S, Science Building No.5, 5 Yiheyuan Road, Beijing, 100871*
 
-I am a fourth-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing and wireless networks.
+I am a final-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing, wireless networks, and their applications in IoT, robotics, and virtual reality.
 
 Please find my CV [here](/files/cv.pdf).
 
 Education
 ======
-* Ph.D. in Computer Science, School of CS, Peking University, 2020-Present
+* Ph.D. in Computer Science, School of CS, Peking University, 2020-2025(Expected)
 * B.Sc. in Computer Science, School of EECS, Peking University, 2016-2020  
 
 Employment
@@ -38,6 +38,8 @@ Awards and Honors
 
 Publications
 ======
+* **Kenuo Xu**, Bo Liang, Jingyu Li, Chenren Xu. [RetroLiDAR: A Liquid-crystal Fiducial Marker System for High-fidelity Spatial Computing]. *In Submission*. 2024.
+* Zhiyuan He, Aashish Gottipati, Lili Qiu, Fanscis Y. Yan, Xufang Luo, **Kenuo Xu**, Yuqing Yang. [LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models]. *In Submission*. 2023.
 * Chenren Xu, **Kenuo Xu**, Lilei Feng, Bo Liang. [RetroV2X: A New V2X Paradigm with Visible Light Backscatter Networking](https://doi.org/10.1016/j.fmre.2022.01.038). *Fundamental Research*. 2023.  
 * **Kenuo Xu**, Kexing Zhou, Chengxuan Zhu, Shanghang Zhang, Boxin Shi, Xiaoqiang Li, Tiejun Huang, Chenren Xu. [When Visible Light (Backscatter) Communication Meets Neuromorphic Cameras in V2X](https://doi.org/10.1145/3572864.3580333). *ACM HotMobile*. 2023. 
 * **Kenuo Xu**, Chen Gong, Bo Liang, Yue Wu, Boya Di, Lingyang Song, Chenren Xu. [Low-Latency Visible Light Backscatter Networking with RetroMUMIMO](https://doi.org/10.1145/3560905.3568507). *ACM SenSys*. 2022. [File](/files/retromumimo.pdf)
