@@ -54,4 +54,4 @@ Activities
 
 Personal
 ======
-I have been playing curling since 2021. Our team won the 1st place in the [2024 National Curling Championship of University Students](/images/curling2024.jpg) and many other championships. I also teach beginners to play curling in the PKU curling club.
+I have been playing curling since 2021. Our team won the 1st place in the [2024 National Curling Championship of University Students](/images/curling2024.jpg) and many other championships. I also love to teach beginners to play curling in the PKU curling club.
