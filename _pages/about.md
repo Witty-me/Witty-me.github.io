@@ -15,7 +15,7 @@ redirect_from:
 *Peking University*  
 *Room 513S, Science Building No.5, 5 Yiheyuan Road, Beijing, 100871*
 
-I am a final-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing, wireless networks, and their applications in IoT, robotics, and virtual reality.
+I am a final-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing, wireless networking, and their applications in IoT, robotics, and human-computer interaction.
 
 Please find my CV [here](/files/cv.pdf).
 
