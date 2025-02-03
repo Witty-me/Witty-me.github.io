@@ -30,6 +30,8 @@ Employment
 
 Awards and Honors
 ======
+* Youth Award For Athletics, Peking University, 2024.
+* Second Prize of Ubiquitous Intelligent Sensing Technology Innovation and Application Competition, Hangzhou, 2024.
 * Merit Student, Peking University, 2022. 
 * First Prize of Competition of Future Network Technology Innovation, Nanjing, 2021.  
 * Excellent Graduate, Peking University, 2020.  
@@ -38,10 +40,11 @@ Awards and Honors
 
 Publications
 ======
-* **Kenuo Xu**, Bo Liang, Jingyu Li, Chenren Xu. RetroLiDAR: A Liquid-crystal Fiducial Marker System for High-fidelity Spatial Computing. *In Submission*. 2024.
+* **Kenuo Xu**, Bo Liang, Jingyu Li, Chenren Xu. RetroLiDAR: A Liquid-crystal Fiducial Marker System for High-fidelity Spatial Computing. *ACM SenSys*. 2025.
 * Chenren Xu, **Kenuo Xu**, Lilei Feng, Bo Liang. [RetroV2X: A New V2X Paradigm with Visible Light Backscatter Networking](https://doi.org/10.1016/j.fmre.2022.01.038). *Fundamental Research*. 2023.  
 * **Kenuo Xu**, Kexing Zhou, Chengxuan Zhu, Shanghang Zhang, Boxin Shi, Xiaoqiang Li, Tiejun Huang, Chenren Xu. [When Visible Light (Backscatter) Communication Meets Neuromorphic Cameras in V2X](https://doi.org/10.1145/3572864.3580333). *ACM HotMobile*. 2023. 
 * **Kenuo Xu**, Chen Gong, Bo Liang, Yue Wu, Boya Di, Lingyang Song, Chenren Xu. [Low-Latency Visible Light Backscatter Networking with RetroMUMIMO](https://doi.org/10.1145/3560905.3568507). *ACM SenSys*. 2022. [File](/files/retromumimo.pdf)
+* Jingyu Li, Qingwen Yang, **Kenuo Xu**, Yang Zhang, Chenren Xu. EchoSight: Streamlining Bidirectional Virtual-physical Interaction with In-situ Optical Tethering. *ACM CHI*. 2025. 
 * Yanxiang Wang, Yiran Shen, **Kenuo Xu**, Mahbub Hassan, Guangrong Zhao, Chenren Xu, Wen Hu. High-Speed Passive Visible Light Communication with Event Cameras and Digital Micro-Mirror. *ACM SenSys*. 2024.
 * Zhiyuan He, Aashish Gottipati, Lili Qiu, Fanscis Y. Yan, Xufang Luo, **Kenuo Xu**, Yuqing Yang. LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models. *In Submission*. 2023.
 * Chenren Xu, Purui Wang, Tuochao Chen, Yue Wu, **Kenuo Xu**, Xieyang Xu, Yang Shen, Junrui Yang, Guojun Chen, Guobin Shen. VLID: Visible Light Backscatter System for Battery-free Internet-of-Things. *IEEE/ACM Transactions on Networking*. Accepted.  
@@ -50,7 +53,7 @@ Publications
 
 Activities
 ======
-* Teaching Assistant, Computer Networks (Honor Track), PKU, 2019, 2020, 2021-2023(Light).
+* Teaching Assistant, Computer Networks (Honor Track), PKU, 2019, 2020, 2021-2024(Light).
 * External Reviewer, IMWUT, 2021.  
 
 Personal
