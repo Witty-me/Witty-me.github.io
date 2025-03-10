@@ -40,7 +40,7 @@ Awards and Honors
 
 Publications
 ======
-* **Kenuo Xu**, Bo Liang, Jingyu Li, Chenren Xu. RetroLiDAR: A Liquid-crystal Fiducial Marker System for High-fidelity Spatial Computing. *ACM SenSys*. 2025.
+* **Kenuo Xu**, Bo Liang, Jingyu Li, Chenren Xu. [RetroLiDAR: A Liquid-crystal Fiducial Marker System for High-fidelity Perception of Embodied AI](https://doi.org/10.1145/3715014.3722073). *ACM SenSys*. 2025. [File](/files/RetroLiDAR.pdf)
 * Chenren Xu, **Kenuo Xu**, Lilei Feng, Bo Liang. [RetroV2X: A New V2X Paradigm with Visible Light Backscatter Networking](https://doi.org/10.1016/j.fmre.2022.01.038). *Fundamental Research*. 2023.  
 * **Kenuo Xu**, Kexing Zhou, Chengxuan Zhu, Shanghang Zhang, Boxin Shi, Xiaoqiang Li, Tiejun Huang, Chenren Xu. [When Visible Light (Backscatter) Communication Meets Neuromorphic Cameras in V2X](https://doi.org/10.1145/3572864.3580333). *ACM HotMobile*. 2023. 
 * **Kenuo Xu**, Chen Gong, Bo Liang, Yue Wu, Boya Di, Lingyang Song, Chenren Xu. [Low-Latency Visible Light Backscatter Networking with RetroMUMIMO](https://doi.org/10.1145/3560905.3568507). *ACM SenSys*. 2022. [File](/files/retromumimo.pdf)
