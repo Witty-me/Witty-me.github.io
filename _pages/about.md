@@ -8,25 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-**Ph.D. Student**
+**Senior Engineer @ Huawei**
 
-*School of Computer Science*  
-*Center for Energy-efficient Computing and Applications (CECA)*  
-*Peking University*  
-*Room 513S, Science Building No.5, 5 Yiheyuan Road, Beijing, 100871*
+*WLAN Lab, Huawei Datacom*
+*Building N4, Huawei Inititute of Nanjing*
+*No. 101 Software Avenue, Nanjing, Jiangsu, 210012*
 
-I am a final-year Ph.D. student in the School of Computer Science at Peking University. I am affiliated with [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/), advised by [Prof. Chenren Xu](https://soar.group/chenren/). My research interests include mobile computing, wireless networking, and their applications in IoT, robotics, and human-computer interaction.
+I am a Senior Enngineer at Huawei working on indoor wireless technologies. I obtained Ph.D. in the School of Computer Science at Peking University, advised by [Prof. Chenren Xu](https://soar.group/chenren/).
 
 Please find my CV [here](/files/cv.pdf).
 
-Education
-======
-* Ph.D. in Computer Science, School of CS, Peking University, 2020-2025(Expected)
-* B.Sc. in Computer Science, School of EECS, Peking University, 2016-2020  
-
 Employment
 ======
+* Senior Engineer at Huawei, Aug. 2025 - Now
 * Research Intern at Microsoft Research Asia (Shanghai), Dec. 2022 - Sep. 2023
+
+Education
+======
+* Ph.D. in Computer Science, School of CS, Peking University, 2020-2025
+* B.Sc. in Computer Science, School of EECS, Peking University, 2016-2020  
 
 Awards and Honors
 ======
