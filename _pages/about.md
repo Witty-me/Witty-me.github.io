@@ -11,9 +11,7 @@ redirect_from:
 **Senior Engineer @ Huawei**
 
 *WLAN Lab, Huawei Datacom*
-
 *Building N4, Huawei Inititute of Nanjing*
-
 *No. 101 Software Avenue, Nanjing, Jiangsu, 210012*
 
 I am a Senior Enngineer at Huawei working on indoor wireless technologies. I obtained Ph.D. in the School of Computer Science at Peking University, advised by [Prof. Chenren Xu](https://soar.group/chenren/).
