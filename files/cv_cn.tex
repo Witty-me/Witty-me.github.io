@@ -1,0 +1,383 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv-cn}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\definecolor{pkured}{RGB}{140, 0, 0}
+\colorlet{awesome}{pkured}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo{./examples/profile.png}
+\name{许科诺}
+\position{高级工程师{\enskip\cdotp\enskip}华为}
+%\address{Building N4, 101 Software Avenue, Nanjing, Jiangsu, 210012}
+
+\mobile{(+86) 13269762233}
+\email{kenuo.xu@foxmail.com}
+\homepage{https://witty-me.github.io/}
+\github{Witty-me}
+\googlescholar{loX-G0gAAAAJ}{Google Scholar}
+% \linkedin{posquit0}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra informations}
+
+% \quote{``Be the change that you want to see in the world."}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {许科诺~~~·~~~个人简历}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%-------------------------------------------------------------------------------
+
+\cvsection{工作经历}
+\begin{cventries}
+	
+	%---------------------------------------------------------
+	\cventry
+	{高级工程师} % Degree (这里指职位)
+	{华为} % Institution
+	{中国 南京/上海} % Location
+	{2025.08 - 至今} % Date(s)
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {就职于数据通信产品线—WLAN技术实验室，主要聚焦AI技术在室内无线网络与感知中的应用（实习期转正获评Excellent）。}
+			\item {负责面向智慧安防与智慧建筑的 Wi-Fi CSI（信道状态信息）无线感知技术预研与落地，主导端到端 AI 算法架构的设计与开发。}
+			\item {构建完整的数据闭环（采集、清洗与增强），设计并训练基于 CNN 与 Attention 机制的神经网络，完成感知任务模型。}
+			\item {针对数据正负样本不平衡问题与跨环境泛化问题，设计基于自编码器的仅利用负样本的异常检测模型；并引入对抗性领域自适应（ADDA）算法，完成“实验室至现网”的跨域迁移。}
+			\item {进行算法的端侧轻量化部署与性能评估，并在现网环境中完成实测，保障神经网络模型落地产品。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{研究实习生} % Degree
+	{微软亚洲研究院} % Institution
+	{中国 上海} % Location
+	{2022.12 - 2023.09} % Date(s)
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {就职于上海无线组；导师：邱锂力教授。}
+			\item {进行大语言模型与计算机网络系统的交叉领域研究，探索大模型在底层系统优化中的应用潜力。}
+			\item {设计并构建了基于 LLM 的网络算法参数智能调优框架，利用大模型的理解与推理能力，取代传统的人工调优规则。}
+		\end{cvitems}
+	}
+	
+	%---------------------------------------------------------
+\end{cventries}
+
+
+\cvsection{教育背景}
+\begin{cventries}
+	
+	%---------------------------------------------------------
+	\cventry
+	{计算机科学 博士}
+	{北京大学}
+	{中国 北京}
+	{2020.09 - 2025.06}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {就读于软硬件协同体系结构（SOAR）研究组；导师：许辰人副教授。}
+			\item {研究方向：移动计算、无线网络中的算法及其在物联网、机器人与人机交互领域的应用。}
+			\item {设计了支持并发传输的可见光反向散射（Backscatter）通信系统，以实现低延迟通信目标。}
+			\item {设计了以脉冲相机（Spike Camera）为接收端的可见光通信系统，实现了高数据传输速率与高动态范围。}
+			\item {设计了以激光雷达为接收端的液晶基准标记（Fiducial Marker）系统，有效扩展了读取范围并提升了测距精度。}
+			\item {更多相关研究工作请参阅“发表论文”部分。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{计算机科学 学士} % Degree
+	{北京大学} % Institution
+	{中国 北京} % Location
+	{2016.09 - 2020.06} % Date(s)
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {获北京大学“优秀毕业生”称号。}
+		\end{cvitems}
+	}
+	
+	%---------------------------------------------------------
+\end{cventries}
+
+
+\cvsection{论文发表}
+\begin{cventries}
+	
+	%---------------------------------------------------------
+	\cventry
+	{\textbf{Kenuo Xu}, Bo Liang, Jingyu Li, Chenren Xu}
+	{RetroLiDAR: A Liquid-crystal Fiducial Marker System for High-fidelity Perception of Embodied AI}
+	{ACM SenSys}
+	{2025}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {一种利用激光雷达和液晶实现的远距离、高测距精度的基准标记系统，适用于机器人与虚拟现实领域。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Chenren Xu, \textbf{Kenuo Xu}, Lilei Feng, Bo Liang}
+	{RetroV2X: A New V2X Paradigm with Visible Light Backscatter Networking}
+	{Fundamental Research}
+	{2023}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {一套实用的基于可见光的车联网通信系统。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{\textbf{Kenuo Xu}, Kexing Zhou, Chengxuan Zhu, Shanghang Zhang, Boxin Shi, Xiaoqiang Li, Tiejun Huang, Chenren Xu}
+	{When Visible Light (Backscatter) Communication Meets Neuromorphic Cameras in V2X}
+	{ACM HotMobile}
+	{2023}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {采用脉冲相机（Spike Camera）作为可见光通信接收端，适配移动场景下的数据传输。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{\textbf{Kenuo Xu}, Chen Gong, Bo Liang, Yue Wu, Boya Di, Lingyang Song, Chenren Xu}
+	{Low-Latency Visible Light Backscatter Networking with RetroMUMIMO}
+	{ACM SenSys}
+	{2022}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {设计编解码算法支持 8 条并发的可见光反向散射链路，并将网络延迟降低了 92.0\%。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Jingyu Li, Qingwen Yang, \textbf{Kenuo Xu}, Yang Zhang, Chenren Xu}
+	{EchoSight: Streamlining Bidirectional Virtual-physical Interaction with In-situ Optical Tethering}
+	{ACM CHI}
+	{2025}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {一套面向 AR 眼镜的“即视即控”光学用户交互系统。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Yanxiang Wang, Yiran Shen, \textbf{Kenuo Xu}, Mahbub Hassan, Guangrong Zhao, Chenren Xu, Wen Hu}
+	{High-Speed Passive Visible Light Communication with Event Cameras and Digital Micro-Mirror}
+	{ACM SenSys}
+	{2024}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {利用事件相机（Event Camera）和数字微振镜（DMD），将无源可见光通信的吞吐量提升了 16 倍。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Zhiyuan He, Aashish Gottipati, Lili Qiu, Xufang Luo, \textbf{Kenuo Xu}, Yuqing Yang, Fanscis Y. Yan}
+	{Designing Network Algorithms via Large Language Models}
+	{ACM HotNets}
+	{2024}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {利用大语言模型设计并优化算法，提升计算机网络相关算法性能。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Chenren Xu, Purui Wang, Tuochao Chen, Yue Wu, \textbf{Kenuo Xu}, Xieyang Xu, Yang Shen, Junrui Yang, Guojun Chen, Guobin Shen}
+	{VLID: Visible Light Backscatter System for Battery-free Internet-of-Things}
+	{IEEE/ACM Transactions on Networking}
+	{Accepted}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {一套面向无电池物联网组网的端到端可见光反向散射解决方案。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, \textbf{Kenuo Xu}, Guobin Shen, Kuntai Du, Gang Huang, Xuanzhe Liu}
+	{Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach}
+	{ACM MobiCom}
+	{2020}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {利用可传达动态附加信息的反光路标，提升自动驾驶的可靠性。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Yue Wu, Purui Wang, \textbf{Kenuo Xu}, Lilei Feng, Chenren Xu}
+	{Turboboosting Visible Light Backscatter Communication}
+	{ACM SIGCOMM}
+	{2020}
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {通过高级调制方案，将可见光反向散射（VLBC）的数据传输速率在原型系统中提升了 8 倍，在仿真环境中提升了 32 倍。}
+		\end{cvitems}
+	}
+	
+	%---------------------------------------------------------
+\end{cventries}
+
+\cvsection{荣誉奖项}
+
+\begin{cvhonors}
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{五四体育奖} % Award
+	{北京大学} % Event
+	{中国 北京} % Location
+	{2024} % Date(s)
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{二等奖} % Award
+	{泛在智能感知技术创新应用大赛} % Event
+	{中国 杭州} % Location
+	{2024} % Date(s)
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{三好学生} % Award
+	{北京大学} % Event
+	{中国 北京} % Location
+	{2022} % Date(s)
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{一等奖} % Award
+	{未来网络科技创新大赛} % Event
+	{中国 南京} % Location
+	{2021} % Date(s)
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{优秀毕业生} % Award
+	{北京大学} % Event
+	{中国 北京} % Location
+	{2020} % Date(s)
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{休斯顿校友会奖学金} % Award
+	{北京大学} % Event
+	{中国 北京} % Location
+	{2019} % Date(s)
+	
+	%---------------------------------------------------------
+	\cvhonor
+	{三好学生} % Award
+	{北京大学} % Event
+	{中国 北京} % Location
+	{2019} % Date(s)
+	
+	%---------------------------------------------------------
+\end{cvhonors}
+
+\cvsection{学术服务}
+\begin{cventries}
+	
+	%---------------------------------------------------------
+	\cventry
+	{计算机网络（实验班）} % Title/Course
+	{助教} % Role
+	{北京大学} % Institution
+	{2019、2020，2021-2024（参与）} % Date(s)
+	{
+		\begin{cvitems} % Description(s) bullet points
+			\item {负责课程的日常组织与学生答疑工作。}
+			\item {负责布置作业、主讲辅导课以及实验的评估与批改。}
+			\item {参与随堂测试的题目设计与试卷批改。}
+			\item {指导部分学生的课程期末研究项目。}
+		\end{cvitems}
+	}
+	
+	\cventry
+	{Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)} % Journal
+	{期刊审稿人} % Role
+	{} % Location
+	{2021} % Date(s)
+	{}	
+	
+	%---------------------------------------------------------
+\end{cventries}
+
+%\input{cv/education.tex}
+%\input{cv/skills.tex}
+%\input{cv/experience.tex}
+%\input{cv/extracurricular.tex}
+%\input{cv/honors.tex}
+%\input{cv/presentation.tex}
+%\input{cv/writing.tex}
+%\input{cv/committees.tex}
+
+
+%-------------------------------------------------------------------------------
+\end{document}
