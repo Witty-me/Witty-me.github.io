@@ -16,7 +16,7 @@ redirect_from:
 
 I am a Senior Enngineer at Huawei, working on AI technologies and their applications to indoor wireless networking and sensing. I obtained Ph.D. in the School of Computer Science at Peking University, advised by [Prof. Chenren Xu](https://soar.group/chenren/).
 
-Please find my CV [here](/files/cv.pdf) and Chinese version [here](/files/cv.pdf).
+Please find my CV [here](/files/cv.pdf) and Chinese version [here](/files/cv_cn.pdf).
 
 Employment
 ======
