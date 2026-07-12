@@ -11,16 +11,16 @@ redirect_from:
 **Senior Engineer @ Huawei**
 
 *WLAN Lab, Huawei Datacom*  
-*Building A9b, Huawei Lianqiu Lake R&D Center*
-*Qingpu District, Shanghai, 201718*
+*Building A9b, Huawei Lianqiu Lake R&D Center*  
+*Qingpu District, Shanghai 201718*  
 
-I am a Senior Engineer at Huawei, working on AI for sensing and physical-world understanding, with a current focus on self-supervised learning of CSI representations. I obtained Ph.D. in the School of Computer Science at Peking University, advised by [Prof. Chenren Xu](https://soar.group/chenren/).
+I am a Senior Engineer at Huawei, working on AI for sensing and physical-world understanding, with a current focus on self-supervised learning of CSI representations. I obtained my Ph.D. in Computer Science from Peking University, advised by [Prof. Chenren Xu](https://soar.group/chenren/).
 
-Please find my CV [here](/files/cv.pdf) and Chinese version [here](/files/cv_cn.pdf).
+Please find my CV [here](/files/cv.pdf) and its Chinese version [here](/files/cv_cn.pdf).
 
 Employment
 ======
-* Senior Engineer at Huawei, Aug. 2025 - Now
+* Senior Engineer at Huawei, Aug. 2025 - Present
 * Research Intern at Microsoft Research Asia (Shanghai), Dec. 2022 - Sep. 2023
 
 Education
@@ -30,7 +30,7 @@ Education
 
 Awards and Honors
 ======
-* Youth Award For Athletics, Peking University, 2024.
+* Youth Award for Athletics, Peking University, 2024.
 * Second Prize of Ubiquitous Intelligent Sensing Technology Innovation and Application Competition, Hangzhou, 2024.
 * Merit Student, Peking University, 2022. 
 * First Prize of Competition of Future Network Technology Innovation, Nanjing, 2021.  
@@ -47,16 +47,16 @@ Publications
 * Junjie Wang, **Kenuo Xu**, Zhe Ou, Zhaofeng Luo, Bo Liang, Muhan Li, Xiaoming Liu, Lingyang Song, Guobin Shen, Xinwei Yao, Chenren Xu. LightRider: Reliable UAV Ground Communication with a Single Laser Tethering Link. *IEEE SECON*. 2026. 
 * Jingyu Li, Qingwen Yang, **Kenuo Xu**, Yang Zhang, Chenren Xu. EchoSight: Streamlining Bidirectional Virtual-physical Interaction with In-situ Optical Tethering. *ACM CHI*. 2025. 
 * Yanxiang Wang, Yiran Shen, **Kenuo Xu**, Mahbub Hassan, Guangrong Zhao, Chenren Xu, Wen Hu. High-Speed Passive Visible Light Communication with Event Cameras and Digital Micro-Mirror. *ACM SenSys*. 2024.
-* Zhiyuan He, Aashish Gottipati, Lili Qiu, Xufang Luo, **Kenuo Xu**, Yuqing Yang, Fanscis Y. Yan. Designing Network Algorithms via Large Language Models. *ACM HotNets*. 2024.
+* Zhiyuan He, Aashish Gottipati, Lili Qiu, Xufang Luo, **Kenuo Xu**, Yuqing Yang, Fancis Y. Yan. Designing Network Algorithms via Large Language Models. *ACM HotNets*. 2024.
 * Chenren Xu, Purui Wang, Tuochao Chen, Yue Wu, **Kenuo Xu**, Xieyang Xu, Yang Shen, Junrui Yang, Guojun Chen, Guobin Shen. VLID: Visible Light Backscatter System for Battery-free Internet-of-Things. *IEEE/ACM Transactions on Networking*. Accepted.  
 * Yue Wu, Purui Wang, **Kenuo Xu**, Lilei Feng, Chenren Xu. [Turboboosting Visible Light Backscatter Communication](https://doi.org/10.1145/3387514.3406229). *ACM SIGCOMM*. 2020.  
 * Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, **Kenuo Xu**, Guobin Shen, Kuntai Du, Gang Huang, Xuanzhe Liu. [Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach](https://doi.org/10.1145/3372224.3380883). *ACM MobiCom*. 2020.  
 
 Activities
 ======
-* Teaching Assistant, Computer Networks (Honor Track), PKU, 2019, 2020, 2021-2024(Light).
+* Teaching Assistant, Computer Networks (Honor Track), PKU, 2019, 2020, 2021-2024(limited involvement).
 * External Reviewer, IMWUT, 2021.  
 
 Personal
 ======
-I have been playing curling since 2021. Our team won the 1st place in the [2024 National Curling Championship of University Students](/images/curling2024.jpg) and many other championships. I also loved to teach beginners to play curling in the PKU curling club.
+I have been playing curling since 2021. Our team won first place in the [2024 National Curling Championship of University Students](/images/curling2024.jpg) and many other championships. I also enjoyed teaching beginners how to play curling in the PKU curling club.
