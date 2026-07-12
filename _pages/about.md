@@ -11,10 +11,10 @@ redirect_from:
 **Senior Engineer @ Huawei**
 
 *WLAN Lab, Huawei Datacom*  
-*Building N9, Huawei Inititute of Nanjing*  
-*No. 101 Software Avenue, Nanjing, Jiangsu, 210012*
+*Building A9b, Huawei Lianqiu Lake R&D Center*
+*Qingpu District, Shanghai, 201718*
 
-I am a Senior Enngineer at Huawei, working on AI technologies and their applications to indoor wireless networking and sensing. I obtained Ph.D. in the School of Computer Science at Peking University, advised by [Prof. Chenren Xu](https://soar.group/chenren/).
+I am a Senior Engineer at Huawei, working on AI for sensing and physical-world understanding, with a current focus on self-supervised learning of CSI representations. I obtained Ph.D. in the School of Computer Science at Peking University, advised by [Prof. Chenren Xu](https://soar.group/chenren/).
 
 Please find my CV [here](/files/cv.pdf) and Chinese version [here](/files/cv_cn.pdf).
 
@@ -44,6 +44,7 @@ Publications
 * Chenren Xu, **Kenuo Xu**, Lilei Feng, Bo Liang. [RetroV2X: A New V2X Paradigm with Visible Light Backscatter Networking](https://doi.org/10.1016/j.fmre.2022.01.038). *Fundamental Research*. 2023.  
 * **Kenuo Xu**, Kexing Zhou, Chengxuan Zhu, Shanghang Zhang, Boxin Shi, Xiaoqiang Li, Tiejun Huang, Chenren Xu. [When Visible Light (Backscatter) Communication Meets Neuromorphic Cameras in V2X](https://doi.org/10.1145/3572864.3580333). *ACM HotMobile*. 2023. 
 * **Kenuo Xu**, Chen Gong, Bo Liang, Yue Wu, Boya Di, Lingyang Song, Chenren Xu. [Low-Latency Visible Light Backscatter Networking with RetroMUMIMO](https://doi.org/10.1145/3560905.3568507). *ACM SenSys*. 2022. [File](/files/retromumimo.pdf)
+* Junjie Wang, **Kenuo Xu**, Zhe Ou, Zhaofeng Luo, Bo Liang, Muhan Li, Xiaoming Liu, Lingyang Song, Guobin Shen, Xinwei Yao, Chenren Xu. LightRider: Reliable UAV Ground Communication with a Single Laser Tethering Link. *IEEE SECON*. 2026. 
 * Jingyu Li, Qingwen Yang, **Kenuo Xu**, Yang Zhang, Chenren Xu. EchoSight: Streamlining Bidirectional Virtual-physical Interaction with In-situ Optical Tethering. *ACM CHI*. 2025. 
 * Yanxiang Wang, Yiran Shen, **Kenuo Xu**, Mahbub Hassan, Guangrong Zhao, Chenren Xu, Wen Hu. High-Speed Passive Visible Light Communication with Event Cameras and Digital Micro-Mirror. *ACM SenSys*. 2024.
 * Zhiyuan He, Aashish Gottipati, Lili Qiu, Xufang Luo, **Kenuo Xu**, Yuqing Yang, Fanscis Y. Yan. Designing Network Algorithms via Large Language Models. *ACM HotNets*. 2024.
@@ -58,4 +59,4 @@ Activities
 
 Personal
 ======
-I have been playing curling since 2021. Our team won the 1st place in the [2024 National Curling Championship of University Students](/images/curling2024.jpg) and many other championships. I also love to teach beginners to play curling in the PKU curling club.
+I have been playing curling since 2021. Our team won the 1st place in the [2024 National Curling Championship of University Students](/images/curling2024.jpg) and many other championships. I also loved to teach beginners to play curling in the PKU curling club.
