@@ -47,7 +47,7 @@ Publications
 * Junjie Wang, **Kenuo Xu**, Zhe Ou, Zhaofeng Luo, Bo Liang, Muhan Li, Xiaoming Liu, Lingyang Song, Guobin Shen, Xinwei Yao, Chenren Xu. LightRider: Reliable UAV Ground Communication with a Single Laser Tethering Link. *IEEE SECON*. 2026. 
 * Jingyu Li, Qingwen Yang, **Kenuo Xu**, Yang Zhang, Chenren Xu. EchoSight: Streamlining Bidirectional Virtual-physical Interaction with In-situ Optical Tethering. *ACM CHI*. 2025. 
 * Yanxiang Wang, Yiran Shen, **Kenuo Xu**, Mahbub Hassan, Guangrong Zhao, Chenren Xu, Wen Hu. High-Speed Passive Visible Light Communication with Event Cameras and Digital Micro-Mirror. *ACM SenSys*. 2024.
-* Zhiyuan He, Aashish Gottipati, Lili Qiu, Xufang Luo, **Kenuo Xu**, Yuqing Yang, Fancis Y. Yan. Designing Network Algorithms via Large Language Models. *ACM HotNets*. 2024.
+* Zhiyuan He, Aashish Gottipati, Lili Qiu, Xufang Luo, **Kenuo Xu**, Yuqing Yang, Francis Y. Yan. Designing Network Algorithms via Large Language Models. *ACM HotNets*. 2024.
 * Chenren Xu, Purui Wang, Tuochao Chen, Yue Wu, **Kenuo Xu**, Xieyang Xu, Yang Shen, Junrui Yang, Guojun Chen, Guobin Shen. VLID: Visible Light Backscatter System for Battery-free Internet-of-Things. *IEEE/ACM Transactions on Networking*. Accepted.  
 * Yue Wu, Purui Wang, **Kenuo Xu**, Lilei Feng, Chenren Xu. [Turboboosting Visible Light Backscatter Communication](https://doi.org/10.1145/3387514.3406229). *ACM SIGCOMM*. 2020.  
 * Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, **Kenuo Xu**, Guobin Shen, Kuntai Du, Gang Huang, Xuanzhe Liu. [Renovating road signs for infrastructure-to-vehicle networking: a visible light backscatter communication and networking approach](https://doi.org/10.1145/3372224.3380883). *ACM MobiCom*. 2020.  
