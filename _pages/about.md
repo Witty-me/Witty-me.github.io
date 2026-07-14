@@ -14,7 +14,7 @@ redirect_from:
 *Building A9b, Huawei Lianqiu Lake R&D Center*  
 *Qingpu District, Shanghai 201718*  
 
-I am a Senior Engineer at Huawei, working on AI for sensing and physical-world understanding, with a current focus on self-supervised learning of CSI representations. I obtained my Ph.D. in Computer Science from Peking University, advised by [Prof. Chenren Xu](https://soar.group/chenren/).
+I am a Senior Engineer at Huawei, working on AI algorithms for physical-world perception, with a current focus on self-supervised learning of CSI representations. I obtained my Ph.D. in Computer Science from Peking University, advised by [Prof. Chenren Xu](https://soar.group/chenren/).
 
 Please find my CV [here](/files/cv.pdf) and its Chinese version [here](/files/cv_cn.pdf).
 
